@@ -16,3 +16,4 @@ Creating a new branch is quick & simple.
 >>>>>>> 1341479bdb6d224454e4fec3c1120e36a6abd25e
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
+test
